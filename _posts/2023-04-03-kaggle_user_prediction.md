@@ -10,6 +10,14 @@ toc_label: 목차
 
 
 
+## 요약
+
+링크 : 
+
+[Link]: https://drive.google.com/drive/folders/1jEQFdcqzLyA1emQ4sV15j71mdYQqZgIx?usp=sharing
+
+
+
 ## Kaggle_user 정보를 통해 투표수와 메달 예측 
 
 
@@ -5865,9 +5873,9 @@ test['totalVotes'].describe()
 ```
 
 
+
 ## 끝으로
 
 UKSnotes를 찾아주셔서 감사합니다.
 
 ![로고]({{site.url}}/images/2023-03-03-first/로고.png)
-

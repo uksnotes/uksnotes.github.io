@@ -12,9 +12,7 @@ toc_label: 목차
 
 ## 요약
 
-링크 : 
-
-[Link]: https://drive.google.com/drive/folders/1jEQFdcqzLyA1emQ4sV15j71mdYQqZgIx?usp=sharing
+ 프로젝트 요약 및 발표자료: [Link](https://drive.google.com/drive/folders/1jEQFdcqzLyA1emQ4sV15j71mdYQqZgIx?usp=sharing)
 
 
 
